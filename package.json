@@ -1,0 +1,8 @@
+{
+  "name": "simple_inquiry_form",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "jquery": "^3.6.0"
+  }
+}
